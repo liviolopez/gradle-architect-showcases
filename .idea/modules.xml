@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/build-logic/build-logic.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/build-logic/build-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/build-logic/convention/build-logic.convention.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/build-logic/convention/build-logic.convention.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/build-logic/convention/build-logic.convention.main.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/build-logic/convention/build-logic.convention.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/build-logic/convention/build-logic.convention.test.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/build-logic/convention/build-logic.convention.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1-enhanced-config/enhanced-config.iml" filepath="$PROJECT_DIR$/.idea/modules/1-enhanced-config/enhanced-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1-enhanced-config/enhanced-config.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1-enhanced-config/enhanced-config.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1-enhanced-config/enhanced-config.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1-enhanced-config/enhanced-config.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/enterprise-build-logic.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/enterprise-build-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/enterprise-build-logic.modules.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/enterprise-build-logic.modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/one/enterprise-build-logic.modules.one.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/one/enterprise-build-logic.modules.one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/one/enterprise-build-logic.modules.one.main.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/one/enterprise-build-logic.modules.one.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/one/enterprise-build-logic.modules.one.test.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/one/enterprise-build-logic.modules.one.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/two/enterprise-build-logic.modules.two.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/two/enterprise-build-logic.modules.two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/two/enterprise-build-logic.modules.two.main.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/two/enterprise-build-logic.modules.two.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/two/enterprise-build-logic.modules.two.test.iml" filepath="$PROJECT_DIR$/.idea/modules/4-advance-build-logic/modules/two/enterprise-build-logic.modules.two.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2-modular-conventions/modular-conventions.iml" filepath="$PROJECT_DIR$/.idea/modules/2-modular-conventions/modular-conventions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2-modular-conventions/modular-conventions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2-modular-conventions/modular-conventions.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2-modular-conventions/modular-conventions.test.iml" filepath="$PROJECT_DIR$/.idea/modules/2-modular-conventions/modular-conventions.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-design-patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/quickpick-copy.iml" filepath="$PROJECT_DIR$/.idea/quickpick-copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/typesafe-buildsrc.iml" filepath="$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/typesafe-buildsrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/buildSrc/typesafe-buildsrc.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/buildSrc/typesafe-buildsrc.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/buildSrc/typesafe-buildsrc.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/buildSrc/typesafe-buildsrc.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/buildSrc/typesafe-buildsrc.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/buildSrc/typesafe-buildsrc.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/typesafe-buildsrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/typesafe-buildsrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/typesafe-buildsrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/3-typesafe-buildsrc/typesafe-buildsrc.test.iml" />
+    </modules>
+  </component>
+</project>

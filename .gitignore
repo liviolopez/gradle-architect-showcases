@@ -1,0 +1,26 @@
+*.iml
+.DS_Store
+*.hprof
+
+.gradle
+**/*/.gradle
+
+# build
+build
+**/*/build
+
+.kotlin
+**/*/.kotlin
+
+# --- IntelliJ IDEA ---
+.idea
+**/*/.idea/
+
+.intellijPlatform
+**/*/.intellijPlatform
+
+# Shared IDE configuration (team-shareable files)
+!/.idea/.name                  # Project display name
+!/.idea/icon.png               # Project icon in IDE
+# !/.idea/modules.xml            # Module definitions for non-Gradle modules
+!/.idea/quickpick-copy.iml     # Non-compilable quickpick-copy module definition
